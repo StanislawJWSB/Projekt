@@ -1,0 +1,4 @@
+D:\StasD\Profil\Desktop\Nowy_Komp\Dane\Studia\dotnet\Projekt\Projekt\obj\Debug\Projekt.csproj.AssemblyReference.cache
+D:\StasD\Profil\Desktop\Nowy_Komp\Dane\Studia\dotnet\Projekt\Projekt\obj\Debug\Projekt.Properties.Resources.resources
+D:\StasD\Profil\Desktop\Nowy_Komp\Dane\Studia\dotnet\Projekt\Projekt\obj\Debug\Projekt.csproj.GenerateResource.cache
+D:\StasD\Profil\Desktop\Nowy_Komp\Dane\Studia\dotnet\Projekt\Projekt\obj\Debug\Projekt.csproj.CoreCompileInputs.cache
